@@ -1,14 +1,15 @@
 ### Code Style ###
 
 ##### Style Examples and tips #####
+
 * Javascript Style Guide - [`javascript.js`](javascript.js)
 * CSS Stye Guide - [`css.css`](css.css)
 * Pylint Style guide - [`pylint_rc.py`](pylint_rc.py)
 
 ##### IDE Config Files #####
 
-
-
+* IntelliJ14 codestyle settings - [`IntelliJIdea14/settings.jar`](/IntelliJIdea14/settings.jar)
+ * Import using **File** - **Import Settings...**
 
 
 * IntelliJ13 codestyle settings - [`IntelliJIdea13/config/codestyles/we7.xml`](/IntelliJIdea13/config/codestyles/we7.xml)
